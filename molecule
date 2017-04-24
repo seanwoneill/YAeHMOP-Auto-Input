@@ -1,0 +1,27 @@
+Final Proj(SnSe)
+; SnSe Bravais Lattice as Molecule
+Molecular
+Geometry
+8
+1 Sn 1.3548604 1.0346625 0.46483812
+2 Se 1.6608446 3.1039875 2.302136
+3 Sn 4.37733 3.1039875 2.688093
+4 Se 7.3930354 3.1039872 4.3676286
+5 Sn 10.10952 3.1039872 3.9816718
+6 Se 9.803535 1.0346624 2.144374
+7 Sn 7.0870504 1.0346624 1.7584168
+8 Se 4.071345 1.0346625 0.078881085
+charge
+0
+average properties
+projected DOS
+; # of proj. DOS's
+2
+;Sn
+atom 1 1, 3 1, 5 1, 7 1
+;Se
+atom 2 1, 4 1, 6 1, 8 1
+Print
+wavefunction
+charge matrix
+end_Print
